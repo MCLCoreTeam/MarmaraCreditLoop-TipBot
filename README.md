@@ -1,4 +1,4 @@
-# Monero-TipBot
+# Marmara Credit Loop - TipBot
 Discord Tipbot built in C++ for Monero/IntenseCoin
 
 Discord: https://discord.gg/TyD4jfU
