@@ -1,7 +1,7 @@
 # Marmara Credit Loop - TipBot
-Discord Tipbot built in C++ for Monero/IntenseCoin
+Discord Tipbot built in C++ for Marmara Credit Loop/ KOMODO (ALL COIN)
 
-Discord: https://discord.gg/TyD4jfU
+Discord: https://discord.gg/4kHhqm
 
 ## Compile
 
@@ -84,7 +84,4 @@ Then navigate to this url (https://discordapp.com/oauth2/authorize?client_id=CLI
 
 The bot should now be ready to run. Launch it, enter the token, and type `!balance` and if it returns a balance of 0 then the communication between the bot and the RPC is working correctly. 
 
-Author: Brandan Tyler Lasley
-* BTC: 1KsX66J98WMgtSbFA5UZhVDn1iuhN5B6Hm
-* ITNS: iz5ZrkSjiYiCMMzPKY8JANbHuyChEHh8aEVHNCcRa2nFaSKPqKwGCGuUMUMNWRyTNKewpk9vHFTVsHu32X3P8QJD21mfWJogf
-* XMR: 44DudyMoSZ5as1Q9MTV6ydh4BYT6BMCvxNZ8HAgeZo9SatDVixVjZzvRiq9fiTneykievrWjrUvsy2dKciwwoUv15B9MzWS
+
